@@ -17,7 +17,7 @@ class DockingStation
         @bikes = @bikes - [b]
         return b
         break
-      end
+      
     end
   end
 
